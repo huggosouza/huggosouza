@@ -8,5 +8,3 @@
 - 🤔 I’m looking for help with my project (RatoOS), and if someone can teach me C++, Assembly (or even Flutter) I would be very thankful.
 - 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my native language - and English).
 - 📫 How to reach me: My Twitter user is: @hedson111
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very into learning programming, but what I really want to do is to fix airplanes.
