@@ -1,10 +1,10 @@
 ### Helloo, I'm Hugo! 👋
 
 - 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
-- 🌱 I’m learning Python.
+- 🌱 I’m learning Java.
 - 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
-- 🤔 I’m looking for help with my Python projects, any tips or fix will be very very wellcome.
-- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my native language - and English).
+- 🤔 I’m looking for help with my projects, any tips or fix will be very very wellcome.
+- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my mother language - and English).
 - 📫 How to reach me: Email - hugoedson2019@gmail.com
 - 😃 Pronouns: He/Him
 
