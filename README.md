@@ -7,6 +7,7 @@
 - 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my mother language - and English).
 - 📫 How to reach me: Email - hugoedson2019@gmail.com
 - 😃 Pronouns: He/Him
+- My landing page: huggosouza.github.io
 
 <div align="center">
   <a href="https://github.com/huggosouza">
