@@ -1,5 +1,7 @@
 ### Helloo, I'm Hugo! 👋
 
+Currently a Software Development Analysis student at Descomplica College.
+
 - 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
 - 🌱 I’m learning Java, Python, HTML5 and CSS.
 - 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
