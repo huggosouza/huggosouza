@@ -6,7 +6,7 @@ Currently an Analysis and Systems Development student at Descomplica College.
 - 🌱 I’m learning Java, Python, HTML5 and CSS.
 - 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
 - 🤔 I’m looking for help with my projects, any tips or fix will be very very wellcome.
-- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my mother language - and English).
+- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my native language - and english).
 - 📫 How to reach me: Email - hugoedson2019@gmail.com
 - 😃 Pronouns: He/Him<br>
 - My landing page > <a href="https://huggosouza.github.io/" target="_blank">Click here</a>
