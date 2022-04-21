@@ -1,6 +1,6 @@
 ### Helloo, I'm Hugo! 👋
 
-Currently an Analysis and Systems Development student at Descomplica College.
+Currently an Analysis and Systems Development student.
 
 - 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
 - 🌱 I’m learning Java, Python, HTML5 and CSS.
