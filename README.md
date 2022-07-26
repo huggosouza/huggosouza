@@ -1,6 +1,6 @@
 ### Helloo, I'm Hugo! 👋
 
-Currently an Systems Analysis and Development.
+Currently an Systems Analysis and Development student.
 
 - 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
 - 🌱 I’m learning C++, Java, Python, HTML5 and CSS (not necessarily in this order).
