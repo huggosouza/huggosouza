@@ -14,7 +14,7 @@ Currently an Systems Analysis and Development.
 <div align="center">
   <a href="https://github.com/huggosouza">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=huggosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="17m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggosouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggosouza&layout=compact&langs_count=7&theme=dark"/>
   </a><br>
   <img height="25em" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <img height="25em" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
