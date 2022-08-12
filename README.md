@@ -23,5 +23,6 @@ Currently an Systems Analysis and Development student.
   <img height="25em" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <img height="25em" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></a>
   <img height="25em" src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"/></a>
+  <img height="25em" src="https://img.shields.io/badge/golang-%2300599C.svg?style=for-the-badge&logo=go%2B%2B&logoColor=white"/></a>
   
 </div>
