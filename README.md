@@ -6,7 +6,7 @@ Currently an Systems Analysis and Development student.
 - 🌱 I’m learning C++, Go, Java, Python, HTML5 and CSS (not necessarily in this order).
 - 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
 - 🤔 I’m looking for help with my projects, any tips or fix will be very very wellcome.
-- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages (specially Portuguese - my native language - and english).
+- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages.
 - 📫 How to reach me: <a href="mailto:hugoedson2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="19em"/></a>
 - 😃 Pronouns: He/Him<br>
 - My landing page > <a href="https://huggosouza.github.io/" target="_blank">Click here</a>
