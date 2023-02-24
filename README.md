@@ -3,7 +3,7 @@
 Currently an Systems Analysis and Development student.
 
 - 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
-- 🌱 I’m learning C++, Go, Java, Python, HTML5 and CSS (not necessarily in this order).
+- 🌱 I’m learning C, Go, Java, Python, HTML5 and CSS (not necessarily in this order).
 - 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
 - 🤔 I’m looking for help with my projects, any tips or fix will be very very welcome.
 - 💬 Ask me about: Aviation, animes, technologies, programming, music and languages.
