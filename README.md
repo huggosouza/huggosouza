@@ -35,13 +35,10 @@ I combine high-end software engineering with business intelligence. My focus is 
 
 ---
 
-### 📊 Métricas GitHub
+### 📊 Activity
 
 <div align="center">
-  <a href="https://github.com/huggosouza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=huggosouza&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggosouza&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huggosouza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
