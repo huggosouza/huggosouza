@@ -2,7 +2,7 @@
 
 ### Full Stack Developer & Digital Strategist
 
-I combine high-end software engineering with business intelligence. My focus is on building **scalable white-label applications** and **digital products** that drive revenue and operational efficiency.
+I combine high-end software engineering with business intelligence. My focus is on building **scalable applications** and **digital products** that drive revenue and operational efficiency.
 
 ---
 
