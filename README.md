@@ -1,28 +1,62 @@
-### Helloo, I'm Hugo! 👋
+# Hugo Edson
 
-Currently an Systems Analysis and Development student.
+### Full Stack Developer & Digital Strategist
 
-- 🔭 I’m currently working on improving my skills with programming, fixing concepts and learning new ones.
-- 🌱 I’m learning Java, Python, enterprise networks, network administration.
-- 👯 I’m looking for projects to collaborate to, I'm interested in community wellbeing-focused projects.
-- 🤔 I’m looking for help with my projects, any tips or fix will be very very welcome.
-- 💬 Ask me about: Aviation, animes, technologies, programming, music and languages.
-- 📫 How to reach me: <a href="mailto:hugoedson2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="19em"/></a>
-- 😃 Pronouns: He/Him<br>
-- My landing page > <a href="https://huggosouza.github.io/" target="_blank">Click here</a>
+I combine high-end software engineering with business intelligence. My focus is on building **scalable white-label applications** and **digital products** that drive revenue and operational efficiency.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+**Core Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+**Infrastructure & Data**
+<div align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### ⚡ About Me
+
+- 🔭 **Current Focus:** Developing scalable white-label architectures and SaaS solutions.
+- 💼 **Business:** I apply strategic code to improve services and negotiations.
+- 📚 **Interests:** Classical Philosophy, Discipline & Focus techniques, and High-performance environments.
+- 🎯 **Goal:** To blend technical excellence with tangible market results.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/huggosouza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=huggosouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggosouza&layout=compact&langs_count=7&theme=dark"/>
-  </a><br>
-  <img height="25em" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <img height="25em" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <img height="25em" src="https://img.shields.io/badge/golang-%2300599C.svg?style=for-the-badge&logo=go%2B%2B&logoColor=white"/></a>
-  <img height="25em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-  <img height="25em" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <img height="25em" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <img height="25em" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></a>
-  <img height="25em" src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"/></a>
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=huggosouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggosouza&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's do business.</h3>
+  <p>
+    <a href="https://hugoedson.pro" target="_blank">
+      <img src="https://img.shields.io/badge/Website-hugoedson.pro-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    </a>
+    <a href="https://www.linkedin.com/in/hugo-edson-de-souza/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:hugoedson2019@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
